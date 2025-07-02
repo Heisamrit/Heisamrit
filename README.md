@@ -3,10 +3,10 @@
 
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🔭 I’m currently working on **[Symptom Advisor AI](https://github.com/yourproject)**  
+- 🔭 I’m currently working on **[Symptom Advisor AI]()**  
 - 🌱 I’m currently learning **DSA in C++ and Full Stack Web Development**
 - 💬 Ask me about **React, Node.js, Machine Learning, GitHub Pages**
-- 📫 How to reach me: **[your.email@example.com](mailto:your.email@example.com)**
+- 📫 How to reach me: **[your.email@example.com](mailto:your.heisamrit@gmail.com)**
 - ⚡ Fun fact: *I love building useful tools that solve real-world problems!*
 
 ---
