@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on **[Symptom Advisor AI]()**  
 - 🌱 I’m currently learning **DSA in C++ and Full Stack Web Development**
 - 💬 Ask me about **React, Node.js, Machine Learning, GitHub Pages**
-- 📫 How to reach me: **[your.email@example.com](mailto:your.heisamrit@gmail.com)**
+- 📫 How to reach me: **[heisamrit@gmail.com](mailto:your.heisamrit@gmail.com)**
 - ⚡ Fun fact: *I love building useful tools that solve real-world problems!*
 
 ---
