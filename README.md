@@ -7,7 +7,6 @@
 - 🌱 I’m currently learning **DSA in C++ and Full Stack Web Development**
 - 💬 Ask me about **React, Node.js, Machine Learning, GitHub Pages**
 - 📫 How to reach me: **[heisamrit@gmail.com](mailto:your.heisamrit@gmail.com)**
--              linkedin www.linkedin.com/in/amrit-saini-5a0605344
 - ⚡ Fun fact: *I love building useful tools that solve real-world problems!*
 
 ---
