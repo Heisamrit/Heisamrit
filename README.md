@@ -35,9 +35,9 @@
 ### 📫 Connect with me:
 <p align="left">
   <a href="www.linkedin.com/in/amrit-saini-5a0605344" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" height="30" width="30" />
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" height="50" width="50" />
   </a>
   <a href="https://github.com/Heisamrit" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="github" height="30" width="30" />
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="github" height="50" width="50" />
   </a>
 </p>
